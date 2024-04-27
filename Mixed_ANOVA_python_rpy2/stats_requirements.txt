@@ -1,0 +1,16 @@
+pandas
+numpy
+scipy
+statsmodels
+pingouin  # before I grab scipy.stats, statsmodels, or R, I first try to solve everthing with pingouin!
+tqdm  # progress bar for very long running processes
+matplotlib
+scikit-learn
+ipywidgets
+fastnumbers  # only for certain crazy tight loops where this kind of optimization matters
+seaborn  # best way to make graphs? I think so!
+rpy2
+joblib  # sometimes I work with huge datafiles and use joblib to parallelize certain things.
+jupyter
+jupyterlab  # the more civilized way to work with jupyter notebooks!!
+
